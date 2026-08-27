@@ -43,5 +43,5 @@ I build responsive, high-performance web applications, scalable API backends, an
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/srijan-srivastava](https://linkedin.com/in/srijan-srivastava)
+* 💼 **LinkedIn:** [Srijan Srivastava](https://www.linkedin.com/in/srijan-srivastava-320980338/)
 * ✉️ **Email:** srivastavasrijan258@gmail.com
