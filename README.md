@@ -27,7 +27,7 @@ I build responsive, high-performance web applications, scalable API backends, an
 ## ⚡ GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijansrivastava1234&show_icons=true&theme=dark" alt="Srijan's Stats" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api?username=srijansrivastava1234&show_icons=true&theme=dark" alt="Srijan's Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijansrivastava1234&theme=dark" alt="Srijan's Streak" width="400" />
 </p>
 
