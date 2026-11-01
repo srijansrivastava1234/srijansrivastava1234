@@ -31,6 +31,11 @@ I build responsive, high-performance web applications, scalable API backends, an
   <img src="./profile/streak.svg" alt="Srijan's Streak" width="400" />
 </p>
 
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijansrivastava1234&theme=react-dark&hide_border=true&area=true" alt="Srijan's Contribution Graph" width="100%" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
